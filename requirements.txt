@@ -7,7 +7,7 @@ scikit-learn==0.23.2
 nltk==3.5
 pyenchant==3.2.0
 beautifulsoup4==4.9.3
-lxml==4.6.2
+lxml==4.6.3
 selenium==3.141.0
 torch==1.7.1
 transformers==4.2.2
